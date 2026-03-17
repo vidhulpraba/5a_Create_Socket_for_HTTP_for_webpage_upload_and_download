@@ -71,8 +71,8 @@ else:
 s.close()
 ```
 ## OUTPUT
-<img width="1329" height="810" alt="image" src="https://github.com/user-attachments/assets/3b1bbed1-bb84-4225-b717-5749e31d0a54" />
-<img width="788" height="432" alt="image" src="https://github.com/user-attachments/assets/d56ab1f9-a872-4496-8d41-06fe65d75662" />
+<img width="1109" height="675" alt="image" src="https://github.com/user-attachments/assets/80b11677-1e81-49d4-8959-6782072c2ef2" />
+<img width="1040" height="568" alt="image" src="https://github.com/user-attachments/assets/0dc6dabd-5219-4492-96db-ed8218381ee4" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
